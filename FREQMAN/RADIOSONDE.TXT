@@ -1,0 +1,9 @@
+f=405600000,d=GB-Aberporth
+f=403300000,d=GB-Camborne
+f=405700000,d=GB-Camborne
+f=404400000,d=GB-Larkhill
+f=403900000,d=GB-Castor Bay
+f=405800000,d=GB-Herstmonceux
+f=404400000,d=GB-Albemarle
+f=404600000,d=GB-Lerwick
+f=405500000,d=GB-Watnall

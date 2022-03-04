@@ -1,0 +1,13 @@
+# INI,END,DESCRIPTION 
+# (Freq range in MHz, min separation 240MHz)
+# (Description up to 20 char)
+# (fields comma delimiter)
+10,250,HF/VHF
+240,480,UHF
+720,960,UHF ISM EU/US
+1440,1680,GSM / GPS
+1700,2700,GSM / DECT
+2320,2560,BL / WIFI 2.4GHz
+3400,3800 GSM 5G
+5160,5900,WIFI 5GHz
+10,6000,FULL RANGE
